@@ -5,8 +5,6 @@ I’ve spent the 10 years building scalable architecture, shipping production co
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,ts,vercel,vite,webpack,redux,js,express,apollo,redis,styledcomponents,sklearn,nodejs,postgres,prisma,npm,graphql,docker,remix,rollupjs,py,pytorch,d3,aws,nestjs,nextjs,ai,materialui,bun,elysia,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 ![Jacob's Github Stats](https://github-stats-seven-bay.vercel.app/api?username=jbeck018&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
 
